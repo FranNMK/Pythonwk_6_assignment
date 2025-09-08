@@ -39,7 +39,7 @@ This repository contains solutions to the **Week 6 Python Assignment**, demonstr
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/your-username/Pythonwk_6_assignment.git
+  https://github.com/FranNMK/Pythonwk_6_assignment.git
    cd Pythonwk_6_assignment
 ````
 
